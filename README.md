@@ -60,5 +60,10 @@ The system uses a pipeline architecture:
 Run the unit tests:
 ```bash
 python -m unittest tests/test_summarizer.py
-=======
+```
 
+![image](https://github.com/user-attachments/assets/d96f53c9-6aee-425d-858d-f75ec31910f2)
+
+![image](https://github.com/user-attachments/assets/9b38ba29-1619-4239-aa6b-64ab763e15db)
+
+![image](https://github.com/user-attachments/assets/8b2ca3ea-ce0b-40ec-9f6f-c60d59775412)
