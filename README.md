@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Legal Document Summarizer
 
 An AI-powered legal document summarization system that uses Large Language Models to generate concise summaries of legal documents while retaining key information.
@@ -59,3 +60,7 @@ The system uses a pipeline architecture:
 Run the unit tests:
 ```bash
 python -m unittest tests/test_summarizer.py
+=======
+# Legal-Document-Summarizer
+An AI-powered legal document summarization system that uses Large Language Models to generate concise summaries of legal documents while retaining key information.
+>>>>>>> 4f8ff3d49e1c704644c7f9aa0a3e32d6344fc9b0
